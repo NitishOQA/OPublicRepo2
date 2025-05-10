@@ -1,6 +1,7 @@
 package testPackage1;
 
 //Test1 comment update from team mate
+//Test2 comment update from TeamMate
 
 public class TestClass1 
 {
